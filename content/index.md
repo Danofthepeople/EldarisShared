@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
+This is the hub for all of the Eldaris shared information.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+What will come of this I wonder?
