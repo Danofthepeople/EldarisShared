@@ -22,5 +22,5 @@ Injuries range in severity, with 20 being the least severe and 1 being the most.
 | 17-19 | Trifling     | **Minor Scar.** The scar doesn't have any adverse effect.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 20    | Trifling     | **It’s not as bad as it looks.** You gain a new minor scar. The scar doesn't have any adverse effect. You shrug off the injury, and pass one death save.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-[[Rules]]
+[[-Rules]]
 
