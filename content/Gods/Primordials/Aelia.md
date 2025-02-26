@@ -22,4 +22,4 @@ TODO
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.
 
-[[-Primordials]]
+[[Primordials]]

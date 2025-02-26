@@ -8,7 +8,7 @@ Azrus is the sun in the sky, the warmth on your skin, the light that lets you se
 Primordial.
 
 # Divine Domains
-Light, Life.
+Light, Life, Peace, Travel.
 
 # Avatar
 A gargantuan phoenix, blazing with the light of the sun.
@@ -22,4 +22,4 @@ TODO
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.
 
-[[-Primordials]]
+[[Primordials]]

@@ -98,4 +98,4 @@ Characters brought back from the dead can be changed for the worse. In these cas
 
 When resurrections go very badly it can cause terrible complications. Perhaps a demon's soul is instead drawn into the body, or the attempt pulls all who attempted the ritual into the shadowfell. The DM determines the complication, but it should lead to a fun adventure, or encounter of some form.
 
-[[-Rules]]
+[[Rules]]
