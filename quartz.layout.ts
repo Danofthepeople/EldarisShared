@@ -28,7 +28,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      folderClickBehavior: 'link',
+      sortFn: (a, b) => {
+        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug)) {
+          return -1;
+        }
+        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug)) {
+          return 1;
+        }
+        if ((!a.file && !b.file) || (a.file && b.file)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+    
+        if (a.file && !b.file) {
+          return -1
+        } else {
+          return 1
+        }
+      },
     }),
   ],
   right: [
@@ -46,7 +65,28 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug)) {
+          return -1;
+        }
+        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug)) {
+          return 1;
+        }
+        if ((!a.file && !b.file) || (a.file && b.file)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+    
+        if (a.file && !b.file) {
+          return -1
+        } else {
+          return 1
+        }
+      },
+    }),
   ],
   right: [],
 }
