@@ -22,4 +22,4 @@ TODO
 # Circumstances Of Creation
 Since the first days of mortals on Eldaris, they have been learning about the world around them. Making advancements that give them vastly superior lives than that of their predecessors. The collective knowledge of mortals, and their desire to learn, eventually became a force unto itself. This force matured over time into the god Phisyn, who continues to grow in power as mortal society progresses.
 
-[[Primordials]]
+[[Primordial]]

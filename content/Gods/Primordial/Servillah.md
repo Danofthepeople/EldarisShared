@@ -22,4 +22,4 @@ TODO
 # Circumstances Of Creation
 Given time, fears become their own monsters, it is from the fears of all mortals Serviilah was formed.
 
-[[Primordials]]
+[[Primordial]]

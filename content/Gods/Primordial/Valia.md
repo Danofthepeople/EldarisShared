@@ -22,4 +22,4 @@ A gold token, with a beautiful face on each side, one male and one female. The r
 # Circumstances Of Creation
 The love between [[Azrus]] and [[Aelia]], the gods of the sun and moon, sparked Valia into being. They have grown in power through the love mortals have for each other, and their more recent association with luck.
 
-[[Primordials]]
+[[Primordial]]

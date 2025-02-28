@@ -1,5 +1,9 @@
 # Foreword
-I have aimed to put together a comprehensive list of all available races. In Eldaris many of your preconceptions about races may be untrue, however you should find some familiar ideas. In almost all cases the specific lore behind each race will be changed from the standard to better fit the world. In rare cases this will mean the race will have a different name, in those cases the original name will be included so that you may find them with ease. On occasion I have made some mechanical change to a race, in these cases it will be highlighted after their brief lore. All Dragonmark and Esper Genesis Core Manual races/subraces have been deliberately excluded, and thus are not available. If you feel I have missed a race that would otherwise be available let me know.
+I have aimed to put together a comprehensive list of all available races. In Eldaris many of your preconceptions about races may be untrue, however you should find some familiar ideas. In almost all cases the specific lore behind each race will be changed from the standard to better fit the world. 
+
+In rare cases this will mean the race will have a different name, in those cases the original name will be included so that you may find them with ease. On occasion I have made some mechanical change to a race, in these cases it will be highlighted after their brief lore. The rarity of each race is from the perspective of the union, the nation your character will hail from. The rarity in other nations may vary.
+
+All Dragonmark and Esper Genesis Core Manual races/subraces have been deliberately excluded, and thus are not available. If you feel I have missed a race that would otherwise be available let me know.
 
 # Mixed Parentage
 To allow for additional flavouring of characters I have decided upon a loose system for mixed parentage, i.e. parents from different races. There may be exceptions to the rules below, these may be listed in a race's brief.

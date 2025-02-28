@@ -1,0 +1,1 @@
+Primordial gods are their domain, they are the sun in the sky or the sea at our shores. Primal, Intelligent, and Powerful. Most were created during the forging, but primordial gods wax and wane in strength based on the worship they receive and the vastness of their domain. Through varying circumstances few primordial gods have been born, and even fewer have faded into nothing.

@@ -22,4 +22,4 @@ TODO
 # Circumstances Of Creation
 [[Rhodon]], the god of earth, found within himself veins of ore. Ore which could only achieve its full potential with the use of fire. [[Rhodon]] reached out to [[Vokdall]], the god of fire, for an alliance that would bring forth something new to the world. Their alliance grew over the years, until the power of it extended beyond their means to control it. Thus the two gods gave up a part of themselves, the part formed from their alliance, and together forged Igmus to watch over the domain they created.
 
-[[Primordials]]
+[[Primordial]]

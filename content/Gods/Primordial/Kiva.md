@@ -22,4 +22,4 @@ There are no well known aspects of Kiva, that would defeat the point.
 # Circumstances Of Creation
 Mortals lie, mortals scheme and mortals keep secrets. Secrets themselves have great power, some can ruin a life, others can topple empires. It is these most powerful secrets that brought Kiva to Eldaris.
 
-[[Primordials]]
+[[Primordial]]

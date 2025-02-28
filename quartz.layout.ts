@@ -29,10 +29,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.Explorer({
       sortFn: (a, b) => {
-        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug)) {
+        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug.replaceAll(/-/g,''))) {
           return -1;
         }
-        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug)) {
+        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug.replaceAll(/-/g,''))) {
           return 1;
         }
         if ((!a.file && !b.file) || (a.file && b.file)) {
@@ -67,10 +67,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.Explorer({
       sortFn: (a, b) => {
-        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug)) {
+        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug.replaceAll(/-/g,''))) {
           return -1;
         }
-        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug)) {
+        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug.replaceAll(/-/g,''))) {
           return 1;
         }
         if ((!a.file && !b.file) || (a.file && b.file)) {

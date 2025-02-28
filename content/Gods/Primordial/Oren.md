@@ -23,4 +23,4 @@ A two sided sigil, with the profile of a black hounds head on each side. One wit
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.
 
-[[Primordials]]
+[[Primordial]]

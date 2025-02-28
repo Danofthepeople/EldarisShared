@@ -22,4 +22,4 @@ TODO
 # Circumstances Of Creation
 Created when [[Udona]], the god of air, fought [[Yrdis]], the god of water. Their twinned hatred created its own entity, which became the soul of the storm. Though the gods are at peace now, the storm still rages on without them.
 
-[[Primordials]]
+[[Primordial]]

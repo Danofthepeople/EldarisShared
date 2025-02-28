@@ -22,4 +22,4 @@ TODO
 # Circumstances Of Creation
 Created in the first contact war between dwarves, orcs, and men, the first war of it’s scale. Each side prayed for the ruin of their enemies, and so Ruin came.
 
-[[Primordials]]
+[[Primordial]]
