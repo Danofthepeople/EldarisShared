@@ -17,8 +17,9 @@ A black Skeletal Hound wreathed in shadow, with one eye of ruby and one of sapph
 A two sided sigil, with the profile of a black hounds head on each side. One with a red eye, one with a blue eye.
 
 # Well Known Aspects
-- Talza Mirsk
-- Sal Mirsk
+- Talza Mirsk - Aspect embodying the inevitability of death, ensuring that all things must perish in their time and meting out retribution upon those who would defy their destined end.
+- Sal Mirsk - Aspect embodying judgment and passage, guiding spirits to their rightful afterlife and ensuring balance in the cycle of existence.
+- Desmond Veldwin - Aspect embodying the gentle release of death, granting mortals peace and an end to suffering when their time has come.
 
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.

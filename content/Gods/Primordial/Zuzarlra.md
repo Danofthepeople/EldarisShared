@@ -17,7 +17,9 @@ A humanoid female with oily onyx black skin covered in infernal patterns of gold
 Unknown since the last long night.
 
 # Well Known Aspects
-TODO
+- The Lord Marshal - Aspect  embodying the unstoppable force of destruction and decay, bringing forth the fall of civilizations and the annihilation of all things in their wake.
+- Zaphiar - Aspect embodying the agony of the lost and the broken, harvesting the suffering of souls to fuel darker and more powerful forces.
+- Cornelius Viridia - Aspect embodying the endless void that devours hope, light, and souls, reshaping them into something far darker and more twisted.
 
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.

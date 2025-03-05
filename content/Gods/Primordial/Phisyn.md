@@ -17,7 +17,9 @@ Phisyn is said to always take the form of a wise man, someone who would appear l
 A purple tome with a golden eye on its cover.
 
 # Well Known Aspects
-TODO
+- Avozil - Aspect embodying the preservation of all knowledge, ensuring that no discovery, wisdom, or lesson is ever truly lost to time.
+- Nial -  Aspect embodying the love of teaching, eagerly imparting knowledge to any who seek it, illuminating minds with understanding.
+- Kendra Goldfoot - Aspect embodying the recovery of lost wisdom, guarding the hidden truths buried in the ruins of the past, waiting for the worthy to uncover them.
 
 # Circumstances Of Creation
 Since the first days of mortals on Eldaris, they have been learning about the world around them. Making advancements that give them vastly superior lives than that of their predecessors. The collective knowledge of mortals, and their desire to learn, eventually became a force unto itself. This force matured over time into the god Phisyn, who continues to grow in power as mortal society progresses.

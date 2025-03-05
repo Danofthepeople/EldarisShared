@@ -6,3 +6,5 @@ A few years ago the continent to the east of the Union was the site of an incred
 - Morality in this campaign is left entirely open to player preference.
 - A key part of this campaign would involve exploring the remnants of a fallen empire, understanding its people, and claiming what power you can.
 - You could think of the campaign as similar to the American gold rush. Everyone is going to Prismar to make their fortune, and the frontier is unforgiving.
+
+[[Campaign Details]]

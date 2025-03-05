@@ -17,7 +17,9 @@ A constantly shifting and reconfiguring Citadel, orbiting a large arcane rift.
 Twin citadels above and below an arcane rift.
 
 # Well Known Aspects
-TODO
+- Elliana Or'ovahn - Aspect embodying the cataclysmic power of high magic, where forbidden spells and overwhelming arcane forces tear the fabric of reality itself, unleashing destruction that can reshape the world in an instant.
+- Robert Maker - Aspect embodying the complete mastery of magical techniques, where the deepest secrets of arcane power are unlocked, revealing untapped potential and allowing mages to transcend their limits and command magic with unparalleled precision.
+- Tark - Aspect embodying the craft of magical artifacts, where skilled hands and boundless knowledge combine to forge enchanted relics, imbuing objects with the power of the arcane and making them vessels of unimaginable potency.
 
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.

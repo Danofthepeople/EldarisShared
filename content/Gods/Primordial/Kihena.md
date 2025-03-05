@@ -17,7 +17,9 @@ An albino elk with large antlers, each step they take leaves behind a fresh bloo
 A large antlered white elk bowing to a mouse.
 
 # Well Known Aspects
-TODO
+- Vallamae De'le'zar - Aspect embodying the flourishing of nature, nurturing life’s growth from the first spring bloom to the untamed wilds.
+- Hamish - Aspect embodying the hunt, guiding both predator and prey in the eternal cycle of survival and pursuit.
+- Carver Threelegs - Aspect embodying nature’s end, ensuring the decay, death, and return of all things to the earth in the balance of life.
 
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.

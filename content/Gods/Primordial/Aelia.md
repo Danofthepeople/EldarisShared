@@ -17,7 +17,9 @@ A glimmering white owl.
 The owl eclipsing the moon.
 
 # Well Known Aspects
-TODO
+- Finn - Aspect embodying the moon’s trickery, leading the lost astray, shrouding truth in illusion, and kindling the wild instincts that awaken the beast within.
+- Ava Markel - Aspect embodying the moon’s gentle light, guiding mortals through darkness, offering solace, and revealing hidden paths in the night.
+- Larilana Viridia - Aspect embodying the realm of dreams, shaping visions, omens, and whispers of prophecy that drift through slumbering minds.
 
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.

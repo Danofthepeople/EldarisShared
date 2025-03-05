@@ -17,7 +17,9 @@ Igmus chooses the form of an animated suit of armor. The base metal, and ornamen
 An anvil of interwoven silver and gold, set in a base of steel.
 
 # Well Known Aspects
-TODO
+- Tharin'Sey - Aspect embodying the forge, shaping raw metal into tools, weapons, and wonders that drive civilization forward.
+- Kadaer Straitagor - Aspect embodying metal as a standard of value and order, overseeing coinage, craftsmanship, and the precise mechanisms that regulate mortal life.
+- The Gearkeeper - Aspect embodying the strength and endurance of metal, standing as the unshakable foundation of mountains, fortresses, and the armour that shields the weak.
 
 # Circumstances Of Creation
 [[Rhodon]], the god of earth, found within himself veins of ore. Ore which could only achieve its full potential with the use of fire. [[Rhodon]] reached out to [[Vokdall]], the god of fire, for an alliance that would bring forth something new to the world. Their alliance grew over the years, until the power of it extended beyond their means to control it. Thus the two gods gave up a part of themselves, the part formed from their alliance, and together forged Igmus to watch over the domain they created.

@@ -17,7 +17,9 @@ Tadon is the red storm, a large storm that rages across the land. Bringing with 
 A black cloud with a single red lightning bolt.
 
 # Well Known Aspects
-TODO
+- Darius Leviathan Hellwood - Aspect embodying speed and relentless pursuit, where wind and lightning propel warriors forward, never stopping, never yielding.
+- Spits In The Face Of Death - Aspect embodying the defiance of death through sheer rage, where warriors, fuelled by violent passion and untamed fury, battle on despite wounds that should have ended them.
+- Strunvarex - Aspect embodying the destructive power of storms, the howling winds, crashing thunder, and merciless torrents that lay waste to all in their path.
 
 # Circumstances Of Creation
 Created when [[Udona]], the god of air, fought [[Yrdis]], the god of water. Their twinned hatred created its own entity, which became the soul of the storm. Though the gods are at peace now, the storm still rages on without them.

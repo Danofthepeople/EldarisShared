@@ -17,7 +17,9 @@ A brilliant sky whale, carrying a fortress on it’s back.
 A tornado behind clouds.
 
 # Well Known Aspects
-TODO
+- Khalyia the Spectacular - aspect embodying the air elementals and the vast, boundless elemental plane of air, where endless winds, swirling currents, and gales are born, shaping the skies with untamed power.
+- Ismirek the Watcher - Aspect embodying the invisible force that guides all, the ever-present winds that shape the course of journeys and the flow of life.
+- Muriel - Aspect embodying the gentle winds, the soft caress of air that brings comfort, refreshment, and the promise of safe travel.
 
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.

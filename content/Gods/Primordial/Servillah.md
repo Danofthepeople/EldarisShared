@@ -17,7 +17,9 @@ Servillah can appear as what you fear most, though they often choose the form of
 A girl's face with eight black eyes and large spider’s fangs.
 
 # Well Known Aspects
-TODO
+- Fadeaway Gyn - Aspect embodying the unseen fears that creep into the mind, the paranoia, doubts, and terrors that take root in the darkness.
+- Aracha - Aspect embodying the void of fear itself, the crushing weight of the unknown, the suffocating terror of absolute nothingness.
+- Agalamae - Aspect embodying the calculated use of fear as power, the cunning hand that manipulates mortals through dread, bending them to their will.
 
 # Circumstances Of Creation
 Given time, fears become their own monsters, it is from the fears of all mortals Serviilah was formed.

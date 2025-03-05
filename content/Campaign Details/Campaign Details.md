@@ -18,11 +18,13 @@ The fifth calamity was the fall of The Faited Few. To combat the corseeky menace
 This was fifty years ago. The Divine Union carries on as a shell of its former self, ruled by coin and the whims of tyrants. This broken Union is your home, in this shattered world. The Union is all you have known, and to reclaim any of the power of Eldaris, you must leave it behind.
 
 # Party Brief
-Given the current state of the Union, the party has agreed to form and adventuring party, and go on a joint venture to a new continent. How you know each other, and your exact reasons for leaving the Union, will be covered in [[Character Creation]].
+Given the current state of the Union, the party has agreed to form an adventuring party, and go on a joint venture to a new continent. How you know each other, and your exact reasons for leaving the Union, will be covered in [[Character Creation]].
 
 Where the party goes, at least initially, is up to you. I have three options listed below for you to look at. Before the start of the campaign all players must rank their preferred start option from 1 to 3, with 1 being the most preferred, and 3 being the least. This can be done anonymously, or you can discuss amongst yourselves. The option with the lowest score is the one we will go with.
 - [[The One Day Empire]]
 - [[The Isles of Fortune and Dread]]
 - [[War of the Dragon Gods]]
+
+**Update:** [[The Isles of Fortune and Dread]] has won with a landslide victory.
 
 [[index]]

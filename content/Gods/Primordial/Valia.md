@@ -17,7 +17,9 @@ Can take any mortal form they desire. Only one thing persists between the forms,
 A gold token, with a beautiful face on each side, one male and one female. The race depicted usually depends on the dominant race of the region.
 
 # Well Known Aspects
-
+- Steve - Aspect embodying risk and reward, guiding thieves, gamblers, and adventurers with a touch of luck and charm, ensuring the odds favor those who dare.
+- Morgane - Aspect embodying the passionate force of lust and physical connection, where attraction ignites, desires are fulfilled, and intimacy binds mortals together in fiery embrace.
+- Zinfaen - Aspect embodying the warmth of love, whether pure or fleeting, nurturing connections between mortals and fostering bonds that transcend time and circumstance.
 
 # Circumstances Of Creation
 The love between [[Azrus]] and [[Aelia]], the gods of the sun and moon, sparked Valia into being. They have grown in power through the love mortals have for each other, and their more recent association with luck.

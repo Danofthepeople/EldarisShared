@@ -6,3 +6,5 @@ The shattered isles have been known to the Union for centuries, yet they have ba
 - Morality in this campaign is left entirely open to player preference.
 - A key part of this campaign would involve naval travel. Ships, sailing, piracy, trading, are commonplace by necessity of geography.
 - This option would see elements of cosmic horror introduced over time. Bare this in mind before you set off to a life of piracy.
+
+[[Campaign Details]]

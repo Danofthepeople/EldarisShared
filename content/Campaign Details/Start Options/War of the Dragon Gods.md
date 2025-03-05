@@ -6,3 +6,5 @@ There two dragon gods, [[Imrag]] and [[Udremm]]. They, unaffected by the calamit
 - Morality in this campaign is heavily dependent on the gods. Orders will be given, and while denying them is an option it might not be good for your health.
 - A key part of this campaign would be warfare, and all its associated baggage. 
 - This would be a very tactical campaign, where you would have to climb the ranks of the draconic hierarchy. This means performing well both martially, and politically.
+
+[[Campaign Details]]

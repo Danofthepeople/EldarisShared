@@ -17,7 +17,9 @@ A gargantuan phoenix, blazing with the light of the sun.
 The Blazing Sun.
 
 # Well Known Aspects
-TODO
+- Vintik - Aspect embodying the warmth that sustains life, fostering growth, vitality, and the gentle embrace that nurtures the world
+- Kerrain Lighteyes - Aspect embodying the sun’s light as a source of truth, wisdom, and revelation, banishing darkness and illuminating the path forward.
+- Nephinae - An aspect embodying renewal and rebirth, symbolizing the sun’s endless cycle and the hope that comes with each new day
 
 # Circumstances Of Creation
 Created by [[Xemos]] during The Forging.
