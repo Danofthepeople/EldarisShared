@@ -1,5 +1,27 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileNode } from "./quartz/components/ExplorerNode";
+
+const explorerSort = (a: FileNode, b: FileNode) => {
+  if (a?.file?.slug && /^(.+\/)?([\w-]+)\/\2$/.test(a.file.slug)) {
+    return -1;
+  }
+  if (b?.file?.slug && /^(.+\/)?([\w-]+)\/\2$/.test(b.file.slug)) {
+    return 1;
+  }
+  if ((!a.file && !b.file) || (a.file && b.file)) {
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+
+  if (a.file && !b.file) {
+    return -1
+  } else {
+    return 1
+  }
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -28,26 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      sortFn: (a, b) => {
-        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug.replaceAll(/-/g,''))) {
-          return -1;
-        }
-        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug.replaceAll(/-/g,''))) {
-          return 1;
-        }
-        if ((!a.file && !b.file) || (a.file && b.file)) {
-          return a.displayName.localeCompare(b.displayName, undefined, {
-            numeric: true,
-            sensitivity: "base",
-          })
-        }
-    
-        if (a.file && !b.file) {
-          return -1
-        } else {
-          return 1
-        }
-      },
+      sortFn: explorerSort,
     }),
   ],
   right: [
@@ -66,26 +69,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      sortFn: (a, b) => {
-        if (a?.file?.slug && /^(\w+)\/\1$/.test(a.file.slug.replaceAll(/-/g,''))) {
-          return -1;
-        }
-        if (b?.file?.slug && /^(\w+)\/\1$/.test(b.file.slug.replaceAll(/-/g,''))) {
-          return 1;
-        }
-        if ((!a.file && !b.file) || (a.file && b.file)) {
-          return a.displayName.localeCompare(b.displayName, undefined, {
-            numeric: true,
-            sensitivity: "base",
-          })
-        }
-    
-        if (a.file && !b.file) {
-          return -1
-        } else {
-          return 1
-        }
-      },
+      sortFn: explorerSort,
     }),
   ],
   right: [],
