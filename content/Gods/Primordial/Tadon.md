@@ -8,7 +8,7 @@ Why would we pray to a God of storms? Is it to shield ourselves from their wrath
 Primordial.
 
 # Divine Domains
-Blood, Speed, Tempest, Travel.
+Blood, Speed, Tempest, Travel, Wind.
 
 # Avatar
 Tadon is the red storm, a large storm that rages across the land. Bringing with it the frenzy, leaving behind desolation. They say you can see Tadon’s face in the storm, outlined by red lightning.

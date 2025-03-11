@@ -8,7 +8,7 @@ Udona is the unseen that we can never be without. To refuse their embrace would 
 Primordial.
 
 # Divine Domains
-Nature, Speed, Tempest, Travel
+Nature, Speed, Tempest, Travel, Wind.
 
 # Avatar
 A brilliant sky whale, carrying a fortress on it’s back.

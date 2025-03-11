@@ -8,7 +8,7 @@ The God of death often has a bad reputation, but without Oren the world be a tra
 Primordial.
 
 # Divine Domains
-Death, Grave, Peace, Void.
+Death, Grave, Mercy, Peace, Vermin, Void.
 
 # Avatar
 A black Skeletal Hound wreathed in shadow, with one eye of ruby and one of sapphire.

@@ -8,7 +8,7 @@ It is through Xarxes that arcane magic is made possible, they are the channel fo
 Primordial.
 
 # Divine Domains
-Arcana, Knowledge, Labyrinth, Prophecy.
+Arcana, Knowledge, Labyrinth, Portal, Prophecy.
 
 # Avatar
 A constantly shifting and reconfiguring Citadel, orbiting a large arcane rift.

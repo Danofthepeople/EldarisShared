@@ -8,7 +8,7 @@ Heat and fire is vital to life, when controlled great or terrible things can be 
 Primordial.
 
 # Divine Domains
-Forge, Light, Nature.
+Black Powder, Forge, Light, Nature.
 
 # Avatar
 A turtle with flesh of magma and igneous rock, instead of a shell, an active volcano stands on Vokdall’s back.

@@ -8,7 +8,7 @@ A god created from the love of gods, empowered by the love of mortals, that live
 Primordial.
 
 # Divine Domains
-Life, Peace, Trickery, Twilight.
+Life, Mercy, Peace, Trickery, Twilight.
 
 # Avatar
 Can take any mortal form they desire. Only one thing persists between the forms, they are always a paragon of beauty. This has led to them being depicted as a vast variety of races and genders.

@@ -8,7 +8,7 @@ Phisyn is the keeper of all mortal knowledge, present and forgotten. They preser
 Primordial.
 
 # Divine Domains
-Clockwork, Knowledge, Labyrinth.
+Clockwork, Justice, Knowledge, Labyrinth, Portal.
 
 # Avatar
 Phisyn is said to always take the form of a wise man, someone who would appear learned to the local population. The only identifying feature is the purple leather bound tome, with a gold eye on its front cover, which Phisyn always carries.

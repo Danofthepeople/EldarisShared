@@ -8,7 +8,7 @@ Rhodon is the second of [[Xemos]], and the very ground we walk on, the foundatio
 Primordial.
 
 # Divine Domains
-Mountain, Nature, Order.
+Justice, Mountain, Nature, Order.
 
 # Avatar
 An Immense stone titan carrying an Island paradise on his shoulders.

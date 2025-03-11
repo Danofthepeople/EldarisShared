@@ -8,7 +8,7 @@ Only by the domain of Igmus can modern mortal life be lived. To represent value,
 Primordial.
 
 # Divine Domains
-Clockwork, Forge, Mountain, Order.
+Black Powder, Clockwork, Forge, Justice, Mountain, Order.
 
 # Avatar
 Igmus chooses the form of an animated suit of armor. The base metal, and ornamentation of which changes based on the situation they are in.

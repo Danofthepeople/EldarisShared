@@ -8,7 +8,7 @@ Water, a thing often taken for granted, until you have none. Ydris is the water 
 Primordial.
 
 # Divine Domains
-Nature, Ocean, Travel.
+Nature, Ocean, Serpent, Travel.
 
 # Avatar
 A grand sea serpent whose scales are said to shimmer with prismatic brilliance.

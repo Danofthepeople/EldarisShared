@@ -8,7 +8,7 @@ Kihena the goddess of nature maintains balance. In one hand she protects the san
 Primordial.
 
 # Divine Domains
-Cat, Grave, Hunting, Life, Nature.
+Cat, Grave, Hunting, Life, Nature, Serpent, Vermin.
 
 # Avatar
 An albino elk with large antlers, each step they take leaves behind a fresh bloom of roses.

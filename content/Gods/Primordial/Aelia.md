@@ -8,7 +8,7 @@ She is the moon in the night sky, the soft light that guides mortals through dar
 Primordial.
 
 # Divine Domains
-Moon, Twilight, Trickery.
+Moon, Prophecy, Twilight, Trickery.
 
 # Avatar
 A glimmering white owl.

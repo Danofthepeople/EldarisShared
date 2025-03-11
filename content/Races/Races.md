@@ -27,7 +27,7 @@ In general I would prefer you to stick to what is available for races, as adding
 
 ## Prime Races
 As the name suggests these were the first mortal humanoid races to walk Eldaris. Whilst they were not created at exactly the same time they all share a similarly long history. On Eldaris some take great pride in being one of the prime races. Being the first does not however mean they are the most common in Eldaris Though that may be true for dwarves and humans, the orcs, corseeky and vedalken are all much rarer. Until the first dawn of ascension the prime races were the only humanoids on Eldaris
-- [[Corseeky]] (Warforged)
+- [[Corseeky]]
 - [[Dwarf]]
 - [[Human]]
 - [[Orc]]
@@ -36,8 +36,7 @@ As the name suggests these were the first mortal humanoid races to walk Eldaris.
 ## Divergent Races
 The divergent races are a motley bunch, they fit no broad racial grouping, hence being classified as divergent. The circumstances of their arrival in Eldaris varies from case to case. Their social structures are unique, and their physicalities diverse. Each has their own place in society. Oddly despite all their differences, or perhaps because of them, the divergent races feel an odd kinship to one another.
 - [[Aarakocra]]
-- [[Deep Gnome]]
-- [[Duergar]]
+- [[Derro]]
 - [[Gearforged]]
 - [[Gith]]
 - [[Gnome]]
@@ -54,6 +53,7 @@ Since the times of the forging Teitsa'Var has belonged to the dragons. The land 
 
 ## Fey-touched Races
 The feywild is a mystical place, born from [[Kihena]] and touched by the minds of all. The feywild is an echo of the material plane. With the feelings of the material plane being reflected in the physicality of the feywild. Within the feywild arcana and nature are one, a beautiful, terrifying union. One that shapes the very plane itself and all it's denizens, making them as mystical as the land the hail from. A few such races have made The Divine Union their home.
+- [[Alseid]]
 - [[Centaur]]
 - [[Eladrin]]
 - [[Elf]]
@@ -61,19 +61,6 @@ The feywild is a mystical place, born from [[Kihena]] and touched by the minds o
 - [[Firbolg]]
 - [[Satyr]]
 
-## Fragmented Isles Races
-TODO
-- [[Gnoll]]
-- [[Harengon]]
-- [[Leonin]]
-- [[Loxodon]]
-- [[Minotaur]]
-- [[Owlin]]
-- [[Ratfolk]]
-- [[Ravenfolk]]
-- [[Tabaxi]]
-- [[Tortle]]
-- [[Ursar]] (Bearfolk)
 
 ## Goblinoid Races
 After the first dawn of ascension, humanity seemed on a path towards peace, this enraged [[Ruin]]. He decided to create the goblinoids, a group that would be fundamentally opposed to The Divine Empire. Being a relatively new god, [[Ruin]] did not understand that the goblinoids would not serve him totally, they had free will. Initially his influence over them was strong, but as the years passed his control faded. By the third era of The Divine Council, he had no more control over them than he did any other race. Now after the calamities and the fall of the union, few remember that the goblinoids were sometimes referred to as the races of [[Ruin]]. 
@@ -88,17 +75,48 @@ Humanity's connection to the weave of the world allows them to adapt to almost a
 - [[Genasi]]
 - [[Half-Elf]]
 - [[Half-Orc]]
-- [[Scion]] (Kalashtar)
+- [[Scion]] 
 - [[Shifter]]
-- [[Fused]] (Simic Hybrid)
+- [[Fused]]
 - [[Tiefling]]
 - [[Trollkin]]
 - [[Yuan-Ti]]
 
-## Gothic Lineages
-TODO
+## Shattered Isles Races
+In the third era of The Divine Council the union  focused on expansion. This coupled with advances in naval technology lead the union to the Shattered Isles. The union began to settle the islands, and on some they found they weren't alone. Primitive cultures of bestial races were forming, still in their infancy compared to the union, but undoubtedly intelligent. The union set to uplifting these younger races, and one way or another, many became citizens of the empire. Since the calamities the known races of the Shattered Isles has multiplied. The archipelago is now a melting pot of civilization, with each island playing host to a unique culture and people.
+- [[Bomok]]
+- [[Catfolk]]
+- [[Corvian]]
+- [[Erina]]
+- [[Fungarii]]
+- [[Giff]]
+- [[Gnoll]]
+- [[Grung]]
+- [[Hadozee]]
+- [[Harengon]]
+- [[Leonin]]
+- [[Locathah]]
+- [[Loxodon]]
+- [[Minotaur]]
+- [[Murin]]
+- [[Owlin]]
+- [[Praedaren]]
+- [[Raskir]]
+- [[Satarre]]
+- [[Tabaxi]]
+- [[Thri-kreen]]
+- [[Tortle]]
+- [[Ursar]]
+- [[Vesperin]]
+
+## The Unmade
+The Unmade are not true races in themselves. Any race could become a Dhampir for example. Still when a person becomes unmade they lose a lot of their racial traits, and thus identity. Their features become uncanny, especially to members of their former race. This generally leads to them being ostracised by their people, and having to find acceptance elsewhere. 
+- [[Darakhul]]
 - [[Dhampir]]
 - [[Hexblood]]
 - [[Reborn]]
+- [[Shade]]
+
+
 
 [[index]]

@@ -8,7 +8,7 @@ A curse we put upon ourselves. Through our wars Ruin was born, and now in any wa
 Primordial.
 
 # Divine Domains
-Blood, Death, Hunting, Tempest, War.
+Black Powder, Blood, Death, Hunting, Tempest, War.
 
 # Avatar
 A knight the size of two men. Wearing jagged black plate armor, painted red by the blood of the fallen. Wielding blade and brimstone, the knight rides into battle atop a blazing bull.

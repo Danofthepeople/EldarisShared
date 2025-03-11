@@ -8,7 +8,7 @@ There is order to nature, a science to cultivation, and Bitar permeates all of i
 Primordial.
 
 # Divine Domains
-Beer, Nature, Order, Travel.
+Beer, Mercy, Nature, Order, Travel.
 
 # Avatar
 Bitar is said to always take a form similar to that of the local peasantry.

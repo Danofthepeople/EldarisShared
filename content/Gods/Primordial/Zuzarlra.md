@@ -8,7 +8,7 @@ The most evil of the primordials, and perhaps the most powerful. Zuzarlra claims
 Primordial.
 
 # Divine Domains
-Apocalypse, Death, Trickery, Void, War.
+Apocalypse, Death, Shadow, Trickery, Void, War.
 
 # Avatar
 A humanoid female with oily onyx black skin covered in infernal patterns of gold and brimstone. Two large horns curl from her head, and large bat like wings protrude from her back. Her features are angular as if cut from stone, her eyes as black as the void.

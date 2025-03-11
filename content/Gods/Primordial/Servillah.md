@@ -8,7 +8,7 @@ The gods have little, if any, fear. Mortals however are different, fear is a con
 Primordial.
 
 # Divine Domains
-Darkness, Trickery, Void.
+Darkness, Serpent, Shadow, Trickery, Vermin, Void.
 
 # Avatar
 Servillah can appear as what you fear most, though they often choose the form of a young human girl with the facial features of a spider.

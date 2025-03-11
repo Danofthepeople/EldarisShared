@@ -8,7 +8,7 @@ Secrets are everywhere, they run Eldaris in a way, and Kiva is the god of secret
 Primordial.
 
 # Divine Domains
-Cat, Darkness, Knowledge, Prophecy, Trickery.
+Cat, Darkness, Knowledge, Prophecy, Shadow, Trickery, Vermin.
 
 # Avatar
 Kiva’s form is largely unknown to mortals. Most who have interacted with Kiva describe a plain white mask surrounded by shadow.
