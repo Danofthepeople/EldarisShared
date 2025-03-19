@@ -1,22 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { FileNode } from "./quartz/components/ExplorerNode";
+import { FileTrieNode } from "./quartz/util/fileTrie"
 
-const explorerSort = (a: FileNode, b: FileNode) => {
-  if (a?.file?.slug && /^(.+\/)?([\w-]+)\/\2$/.test(a.file.slug)) {
+const explorerSort = (a: FileTrieNode, b: FileTrieNode) => {
+  if (a?.data?.slug && /^(.+\/)?([\w-]+)\/\2$/.test(a.data.slug)) {
     return -1;
   }
-  if (b?.file?.slug && /^(.+\/)?([\w-]+)\/\2$/.test(b.file.slug)) {
+  if (b?.data?.slug && /^(.+\/)?([\w-]+)\/\2$/.test(b.data.slug)) {
     return 1;
   }
-  if ((!a.file && !b.file) || (a.file && b.file)) {
+  if ((!a.data && !b.data) || (a.data && b.data)) {
     return a.displayName.localeCompare(b.displayName, undefined, {
       numeric: true,
       sensitivity: "base",
     })
   }
 
-  if (a.file && !b.file) {
+  if (a.data && !b.data) {
     return -1
   } else {
     return 1
