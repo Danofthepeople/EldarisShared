@@ -8,7 +8,7 @@ Humans were born from the weave of Eldaris, spun into being at the end of the fo
 Humans are ubiquitous in the Union, they are the most common race in Eldaris.
 
 # Political Standing in the Union
-Humans weild almost univiralled political power in the union, due to thei ubiqutousness and due to the number of human primordial aspects.
+Humans wield almost unrivalled political power in the union, due to their ubiquitousness and due to the number of human primordial aspects.
 
 # Reputation in the Union
 Humans are treated well in the Union, as most in the Union are humans. The other races often hold disdain for humans, though they would rarely express it openly.
