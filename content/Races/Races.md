@@ -75,7 +75,7 @@ Humanity's connection to the weave of the world allows them to adapt to almost a
 - [[Genasi]]
 - [[Half-Elf]]
 - [[Half-Orc]]
-- [[Scion]] 
+- [[Scion]]
 - [[Shifter]]
 - [[Fused]]
 - [[Tiefling]]
@@ -85,7 +85,6 @@ Humanity's connection to the weave of the world allows them to adapt to almost a
 ## Shattered Isles Races
 In the third era of The Divine Council the union  focused on expansion. This coupled with advances in naval technology lead the union to the Shattered Isles. The union began to settle the islands, and on some they found they weren't alone. Primitive cultures of bestial races were forming, still in their infancy compared to the union, but undoubtedly intelligent. The union set to uplifting these younger races, and one way or another, many became citizens of the empire. Since the calamities the known races of the Shattered Isles has multiplied. The archipelago is now a melting pot of civilization, with each island playing host to a unique culture and people.
 - [[Bomok]]
-- [[Catfolk]]
 - [[Corvian]]
 - [[Erina]]
 - [[Fungarii]]

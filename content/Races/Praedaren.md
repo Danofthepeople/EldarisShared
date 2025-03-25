@@ -14,4 +14,4 @@ The only political power the praedaren tend to hold in the Union is what they ca
 The praedaren are generally met with fear. They are known as terrors of the sea, and many praedaren are all to happy to reinforce that image.
 
 # Mechanics
-This race is hombrew: https://www.gmbinder.com/share/-LIXYg4u81mAPzL2YxmG
+This race is homebrew: https://www.gmbinder.com/share/-LIXYg4u81mAPzL2YxmG

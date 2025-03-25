@@ -4,7 +4,7 @@ The Ursar are towering, broad-shouldered humanoids with the unmistakable presenc
 Ursar are covered in dense fur, ranging in color from deep black to rich brown, golden hues, or even stark white, depending on their lineage and homeland. Their fur grows thicker in colder climates, making them naturally resistant to the elements. Their broad, heavy-set faces bear short muzzles and small, watchful eyes that gleam with deep intelligence and patience, taking in their surroundings with calm precision.
 
 # Brief History
-The Union's first offical introduction to the ursar was Kagranak, the black bear, and aspect of Ruin. Kagranak led armies against the union, killed a divine, and successfully conquered the Union's westernmost state Vygofeln.
+The Union's first official introduction to the ursar was Kagranak, the black bear, and aspect of Ruin. Kagranak led armies against the union, killed a divine, and successfully conquered the Union's westernmost state Vygofeln.
 
 # Rarity in the Union
 The ursar are either exceedingly rare, or incredibly reclusive. The only well known ursar is Kagranak himself. Whilst some ursar were seen fighting under Kagranak's banner in the war, very few have been seen since.
