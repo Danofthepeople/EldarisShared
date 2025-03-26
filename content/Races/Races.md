@@ -37,6 +37,7 @@ As the name suggests these were the first mortal humanoid races to walk Eldaris.
 The divergent races are a motley bunch, they fit no broad racial grouping, hence being classified as divergent. The circumstances of their arrival in Eldaris varies from case to case. Their social structures are unique, and their physicalities diverse. Each has their own place in society. Oddly despite all their differences, or perhaps because of them, the divergent races feel an odd kinship to one another.
 - [[Aarakocra]]
 - [[Derro]]
+- [[Fungarii]]
 - [[Gearforged]]
 - [[Gith]]
 - [[Gnome]]
@@ -55,7 +56,6 @@ Since the times of the forging Teitsa'Var has belonged to the dragons. The land 
 The feywild is a mystical place, born from [[Kihena]] and touched by the minds of all. The feywild is an echo of the material plane. With the feelings of the material plane being reflected in the physicality of the feywild. Within the feywild arcana and nature are one, a beautiful, terrifying union. One that shapes the very plane itself and all it's denizens, making them as mystical as the land the hail from. A few such races have made The Divine Union their home.
 - [[Alseid]]
 - [[Centaur]]
-- [[Eladrin]]
 - [[Elf]]
 - [[Fairy]]
 - [[Firbolg]]
@@ -87,7 +87,6 @@ In the third era of The Divine Council the union  focused on expansion. This cou
 - [[Bomok]]
 - [[Corvian]]
 - [[Erina]]
-- [[Fungarii]]
 - [[Giff]]
 - [[Gnoll]]
 - [[Grung]]
