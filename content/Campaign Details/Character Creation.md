@@ -11,6 +11,9 @@ Please read [[Campaign Details]] and bring any questions to me.
 # Etiquette
 Not really related to character creation, but I want this to be available to you all, please read it: [[Etiquette]]
 
+# Level One Chumps
+You guys are starting at level one. I know that some of you are pretty used to playing powerful characters, but if you attack a god at level one you will be squashed before you can recognise your mistake. On that note a mild breeze is likely to knock you on your arse. Try not to commit suicide, running is in fact an option.
+
 # Rules
 Like it or not, rules are the guidelines that enable fun. There are times for them to be bent or broken, and there are times where they make the story truly special. In short read my damn: [[Rules]]
 
@@ -18,7 +21,7 @@ Like it or not, rules are the guidelines that enable fun. There are times for th
 Eldaris has many races, some would say a nice number of races, find the details here: [[Races]]
 
 # Backstory
-I like a good backstory, and I will read any that are provided to me. However I appreciate backstories are hard to come up with. For this campaign I have come up with a framework to help you along.
+I like a good backstory, and I will read any that are provided to me. However I appreciate backstories are hard to come up with. For this campaign I have come up with a framework to help you along. I always aim to have at least one arc linked to each characters backstory. If there is something in your backstory you specifically want to explore, please highlight it to me. 
 
 ## Character Questions
 Please answer all of these questions.
@@ -61,6 +64,7 @@ Please answer all of these questions.
 
 ### The Call to Adventure
 - Why did they leave their previous life to become an adventurer?
+- Why have they chosen the Shattered Isles?
 - What do they hope to find or achieve through adventuring?
 - What would it take for them to settle down and stop adventuring?
 
@@ -81,7 +85,7 @@ Each player character starts off knowing two other player characters in some way
 - Did you meet during a shared event, through mutual friends, or another circumstance?
 
 ### How close are you?
-- Are you old friends, reluctant allies, or rivals?
+- Are you family, old friends, reluctant allies, or rivals?
 - Do you trust each other fully, or is there some tension?
 
 ### How do you treat the other person?
@@ -97,4 +101,4 @@ Each player character starts off knowing two other player characters in some way
 - What do you hope to gain from this alliance?
 
 ## Freeform Backstory
-If, after answering all the above, you want to provide me with a narrative backstory, go for it. I always aim to have at least one arc linked to each characters backstory. If there is something in your backstory you specifically want to explore, please highlight it to me. Additionally, any key information, such as names and places, please highlight and extract from the narrative of your backstory so I can find them at a glance.
+If, after answering all the above, you want to provide me with a narrative backstory, go for it. Additionally, any key information, such as names and places, please highlight and extract from the narrative of your backstory so I can find them at a glance.

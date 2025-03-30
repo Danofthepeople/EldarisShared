@@ -13,7 +13,7 @@ Bomok are uncommon in the Union, but in major port cities, military outposts, an
 Their reputation as loyal warriors, disciplined sentinels, and skilled artisans has earned them a place in Union society, particularly in military and security roles, but they have no centralized leadership or major political representation within the Union’s governing bodies.
 
 # Reputation in the Union
-The bomok are generally respected, admired, and sometimes feared within the Union. Their unwavering sense of loyalty and strong martial traditions make them ideal as guards, soldiers, and bodyguards, but their fierce intensity and rigid honor code can make them intimidating to the average citizen.
+The bomok are generally respected, admired, and sometimes feared within the Union. Their unwavering sense of loyalty and strong martial traditions make them ideal as guards, soldiers, and bodyguards, but their fierce intensity and rigid honour code can make them intimidating to the average citizen.
 
 # Mechanics
 This race is homebrew: https://www.gmbinder.com/share/-LSVeXkSG-9GzlFIUiUZ

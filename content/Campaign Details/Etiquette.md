@@ -15,9 +15,6 @@ Now there are a lot of rules in this game I remember a lot of them, but I am not
  
 # Combat Speed
 Combat has the potential to crawl, be ready to take your turn before I get to you. Have a default action if you can't think.
-
-# Level One Chumps
-You guys are all level one. I know that some of you are pretty used to playing powerful characters, but if you attack a god in your current state you will be squashed before you can recognise your mistake. On that note a mild breeze is likely to knock you on your arse. Try not to commit suicide, running is in fact an option.
  
 # Themes
 I generally cover a lot of themes, some of them can be darker than others. Some things won't be touched, you might be able to seduce the barkeep, but don't expect a sex scene. If you have anything that you explicitly don't want in the campaign, let everyone know. Also I may play some dark or horrible characters, that is in no way a reflection of who I am, I'm far worse.
@@ -25,7 +22,7 @@ I generally cover a lot of themes, some of them can be darker than others. Some 
 # I'm Not Your Enemy 
 Believe me I want your characters to be cool almost as much as you do, that sometimes means I must try and destroy them, it's not personal, honest.
 
-Sometimes an in world character might call your characters ugly, this does not mean you are ugly. However, feel free to send me three paragraphs about this if I ever do it. This seriously happened. 
+Sometimes an in world character might call your characters ugly, this does not mean you are ugly. However, feel free to send me three angry paragraphs if I ever do it. This seriously happened. 
 
 Anything that happens to your character should not go beyond your character.
 
@@ -39,7 +36,7 @@ To help me, please let me know any subjects that cannot be referenced in any way
 In my mind there are roughly four states:
 - **All is Good** No one is uncomfortable, and play continues as usual.
 - **Slow Down** We are straying close to sensitive subjects, lets take it slow and make sure everyone is okay.
-- **Rewind** That was too far, lets reset to before that happened and start again.
+- **Rewind** That was too far, lets reset to before that happened and take a different path.
 - **Hard Stop** Something went too far, and a hard stop is called. The session pauses, everyone takes a break. Once everyone is ready, we roll back to before the hard stop and take a different path.
 
 If you are ever uncomfortable, feel free to call out one of these states. If you believe more states would be helpful let me know.

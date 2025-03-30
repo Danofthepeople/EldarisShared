@@ -14,7 +14,7 @@ The second type of corseeky servants is the snapped. An individual corseeky may 
 Corseeky servants are exceedingly rare in the union, they are often rejected by their patrons, and forced to return to the hive. Snapped corseeky are more common, with the horrors of the cleansing having forced free will upon many of them.
 
 # Political Standing in the Union
-Corseeky aligned with the hive are political enemies of the union. Snapped corseeky are begrudgingly accepted of refugees with no politcal sway.
+Corseeky aligned with the hive are political enemies of the union. Snapped corseeky are begrudgingly accepted of refugees with no political sway.
 
 # Reputation in the Union
 Corseeky are met with open fear across Eldaris, the cleansing is still fresh in the minds of many.

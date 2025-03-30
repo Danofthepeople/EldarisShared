@@ -2,7 +2,9 @@
 The gearforged are an odd mix of clockwork engineering, and corseeky artifice. Gearforged were once other creatures with flesh-and-blood bodies, but their conscious minds were transplanted into articulated bodies of iron, steel, brass, and wood, driven by pistons and springs. All gearforged are made in humanoid shape, often in the likeness of the person’s original race.  Gearforged have articulated joints, hands, feet, and crystal-lens eyes.
 
 # Brief History
-The cleansing perpatrated upon Eldaris by the corseeky left a lot of dead and wounded on both sides. To the colder minds in the Union, this was seen as an opportunity. All mortals reached a point in their lives where their body failed them, perhaps when that happened a corseeky corpse could be reshaped and repurposed to house them. This was not a totally novel idea in the Union, mortal corpses had been used to create soulless for thousands of years. The differnce this time is these repurposed corpses would house the soul of someone who would otherwise die. Roughly thirty years after the cleansing, the first gearforged emerged with no memory of how they were made.
+The cleansing perpatrated upon Eldaris by the corseeky left a lot of dead and wounded on both sides. To the colder minds in the Union, this was seen as an opportunity. All mortals reached a point in their lives where their body failed them, perhaps when that happened a corseeky corpse could be reshaped and repurposed to house them. 
+
+This was not a totally novel idea in the Union, mortal corpses had been used to create soulless for thousands of years. The differnce this time is these repurposed corpses would house the soul of someone who would otherwise die. Roughly thirty years after the cleansing, the first gearforged emerged with no memory of how they were made.
 
 # Rarity in the Union
 The gearforged are exceedingly rare in the union. How they are made is still a mystery, but the process appears slow with only a handful of gearforged appearing each year. That puts their numbers at around one hundred.

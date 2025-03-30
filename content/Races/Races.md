@@ -1,7 +1,7 @@
 # Foreword
 I have aimed to put together a comprehensive list of all available races. In Eldaris many of your preconceptions about races may be untrue, however you should find some familiar ideas. In almost all cases the specific lore behind each race will be changed from the standard to better fit the world. 
 
-In rare cases this will mean the race will have a different name, in those cases the original name will be included so that you may find them with ease. On occasion I have made some mechanical change to a race, in these cases it will be highlighted after their brief lore. The rarity of each race is from the perspective of the union, the nation your character will hail from. The rarity in other nations may vary.
+In rare cases this will mean the race will have a different name, in those cases the original name will be included so that you may find them with ease. On occasion I have made some mechanical change to a race, in these cases it will be highlighted after their brief lore. The rarity of each race is from the perspective of the Union, the nation your character will hail from. The rarity in other nations may vary.
 
 All Dragonmark and Esper Genesis Core Manual races/subraces have been deliberately excluded, and thus are not available. If you feel I have missed a race that would otherwise be available let me know.
 
@@ -37,13 +37,13 @@ As the name suggests these were the first mortal humanoid races to walk Eldaris.
 The divergent races are a motley bunch, they fit no broad racial grouping, hence being classified as divergent. The circumstances of their arrival in Eldaris varies from case to case. Their social structures are unique, and their physicalities diverse. Each has their own place in society. Oddly despite all their differences, or perhaps because of them, the divergent races feel an odd kinship to one another.
 - [[Aarakocra]]
 - [[Derro]]
-- [[Fungarii]]
 - [[Gearforged]]
 - [[Gith]]
 - [[Gnome]]
 - [[Goliath]]
 - [[Halfling]]
 - [[Kenku]]
+- [[Myconid]]
 - [[Triton]]
 
 ## Draconic Races
@@ -93,7 +93,6 @@ In the third era of The Divine Council the union  focused on expansion. This cou
 - [[Hadozee]]
 - [[Harengon]]
 - [[Leonin]]
-- [[Locathah]]
 - [[Loxodon]]
 - [[Minotaur]]
 - [[Murin]]
