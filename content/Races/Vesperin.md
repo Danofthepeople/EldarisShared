@@ -17,3 +17,6 @@ The vast majority of people do not think the vesperin exist, and that is if they
 
 # Mechanics
 This race is homebrew: https://drive.google.com/file/d/1M200-YKAbl-nOLo52W--gkXVO6QpmihE/view
+
+# ChatGPT Interpretation
+![[vesperinGpt.png]]

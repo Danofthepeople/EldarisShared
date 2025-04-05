@@ -19,3 +19,6 @@ Most union citizens only know of one ursar, Kagranak. Since Kagranak is well kno
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium, under the name Bearfolk.
+
+# ChatGPT Interpretation
+![[ursarGpt.png]]

@@ -19,3 +19,6 @@ Vedalken are respected, they seem cold to the other races, but most know once a 
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGPT Interpretation
+![[vedalkenGpt.png]]

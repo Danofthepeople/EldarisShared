@@ -30,6 +30,7 @@ These rules aren't standard 5e, but they will be used for this campaign.
 - **Opportunity Attacks**
 	- Moving out of a creatures reach no longer provokes an attack of opportunity.
 	- Standing from prone incurs an attack of opportunity from all creatures within reach.
+	- If you have a feature that is related to opportunity attacks, we will discuss how to tweak it if necessary.
 - **Sentinel**
 	- No longer reduces a creatures speed to 0 on a successful opportunity attack.
 	- Grants the ability to perform an opportunity attack when a creature leaves your reach.

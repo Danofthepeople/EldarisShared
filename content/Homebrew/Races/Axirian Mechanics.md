@@ -1,0 +1,12 @@
+# **Traits**
+- **Ability Score Increase.** You increase one ability score by 2 and a different one by 1.  
+- **Age.** Axirians reach maturity at 20 years and can live up to **150 years**.  
+- **Size.** Axirians stand between 4 and 5 feet tall, with slender but sturdy builds. Your size is **Medium**.  
+- **Speed.** Your base walking speed is 30 feet, and you have a swimming speed of 35 feet. 
+- **Darkvision.** Adapted to murky waters, you have darkvision out to **60 feet**.  
+- **Amphibious.** You can breathe both air and water.  
+- **Regenerative Vitality.** When you spend Hit Dice to regain hit points during a short rest, you may roll additional Hit Dice equal to half your proficiency bonus (rounded down). These additional Hit Dice are free, but may only be used once per short rest, and require you to spend at least one Hit Dice.
+- **Bodily Regrowth.** If you suffer a non-magical lingering injury to your body, it will naturally heal over time. Trifling injuries take 1d6 days, minor injuries take 2d6 days, major injuries take 3d6 days, and debilitating injuries take 4d6 days.
+- **Regenerative Surge**. Once per long rest, when you are reduced to 0 hit points but not killed outright, you can immediately expend one of your Hit Dice. Roll the die and add your Constitution modifier. You instead drop to that many hit points.
+- **Water’s Embrace.** As an action, you can call upon the healing properties of water. You can touch a creature (including yourself) and restore hit points equal to 1d8 + your proficiency bonus. You can use this ability a number of times equal to your proficiency bonus per long rest.  
+- **Languages.** You can speak, read, and write Common and Axirian.

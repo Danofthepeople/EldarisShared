@@ -20,6 +20,12 @@ Like it or not, rules are the guidelines that enable fun. There are times for th
 # Races
 Eldaris has many races, some would say a nice number of races, find the details here: [[Races]]
 
+- Note, when picking your race, your character will have lived their whole life, or the vast majority of it, in the Divine Union. However, the bulk of the campaign, at least initially, will take place in the Shattered Isles.
+- When picking your race, double check the languages with me, some are from third party settings.
+- Most of the lore of races is irrelevant in Eldaris, and has been superseded. Though if you see something interesting and want to incorporate it, or take inspiration from it, let me know.
+- ROLL20 compendium integration can be a bit dodgy for the third party races. I found one that lets you have four ability score improvements, which is obviously wrong. So when making your characters be sure to double check you get everything you should from your race, and no more.
+- Some races do not have roll20 compendium integration, but you are all big strong adults, so I am sure you will manage.
+
 # Backstory
 I like a good backstory, and I will read any that are provided to me. However I appreciate backstories are hard to come up with. For this campaign I have come up with a framework to help you along. I always aim to have at least one arc linked to each characters backstory. If there is something in your backstory you specifically want to explore, please highlight it to me. 
 
