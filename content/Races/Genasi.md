@@ -17,3 +17,6 @@ Genasi are met with an odd reverance in the union, and are usually seen as spiri
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[genasiGpt.png]]

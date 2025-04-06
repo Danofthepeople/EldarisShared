@@ -19,3 +19,6 @@ Humans are treated well in the Union, as most in the Union are humans. The other
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[humanGpt.png]]

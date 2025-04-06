@@ -19,3 +19,6 @@ Elves are misunderstood by most in the union, but are generally seen as friendly
 The rules for this race can be found in the Roll20 compendium.
 
 While an elf can be up to a thousand years old, they only have memory of their life since they reached the material plane, which was roughly four hundred years ago.
+
+# ChatGpt Interpretation
+![[elfGpt.png]]

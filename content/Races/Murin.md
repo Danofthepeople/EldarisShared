@@ -1,5 +1,5 @@
 # Description
-Reaching a little over 2 feet tall, the murin often go unnoticed in their day-to-day activities. Their diminutive stature and quiet demeanour make the murin inoffensive to most, granting a certain detachment from the major conflicts and strife of the age. Their fast metabolisms and quick feet give the murin a slender build, usually weighing between 20-30 pounds.
+Reaching a little over 2 feet tall, the mouse-like people often go unnoticed in their day-to-day activities. Their diminutive stature and quiet demeanour make the murin inoffensive to most, granting a certain detachment from the major conflicts and strife of the age. Their fast metabolisms and quick feet give the murin a slender build, usually weighing between 20-30 pounds.
 
 Murin fur colour ranges from white to tan, to brown or black, with various patterns passed through heredity. They take care to groom and clean their fur, as it represents their family and community. A murin's eye colour is either red or black. Murin like to wear comfortable, dark-coloured clothes that allow for discretion and a wide range of movement.
 
@@ -17,3 +17,6 @@ The murin are seen as a curious oddity. Their general cuteness means that in gen
 
 # Mechanics
 This race is homebrew: https://drive.google.com/file/d/0B6eHVaEIoWbBZWRid0tkMnhPMXM/view?resourcekey=0-gPtpcevCQKs9n26eI1sTzA
+
+# ChatGpt Interpretation
+![[murinGpt.png]]

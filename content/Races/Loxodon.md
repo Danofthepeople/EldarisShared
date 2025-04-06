@@ -19,3 +19,6 @@ Loxodon are seen as kindly giants, with high standards. Hard to impress, but alw
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[loxodonGpt.png]]

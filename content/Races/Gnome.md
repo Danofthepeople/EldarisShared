@@ -19,3 +19,6 @@ Gnomes for the most part are seen as well meaning folk, a little eccentric but h
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[gnomeGpt.png]]

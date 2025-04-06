@@ -19,3 +19,6 @@ The myconid appetite for death and decay gives them a dark image in the eyes of 
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium, under the name Mushroomfolk.
+
+# ChatGpt Interpretation
+![[myconidGpt.png]]

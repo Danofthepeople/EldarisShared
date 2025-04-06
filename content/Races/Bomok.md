@@ -17,3 +17,6 @@ The bomok are generally respected, admired, and sometimes feared within the Unio
 
 # Mechanics
 This race is homebrew: https://www.gmbinder.com/share/-LSVeXkSG-9GzlFIUiUZ
+
+# ChatGpt Interpretation
+![[bomokGpt.png]]

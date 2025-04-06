@@ -23,3 +23,6 @@ The rules for this race can be found in the Roll20 compendium, under the name Si
 Fused are thought to share the same weakness to silver that shifters have, due to their bestial nature. In reality they have no such weakness.
 
 As a fused your character would have had a normal life, until they were kidnapped. After which they would remember being abandoned outside of civilisation, changed beyond recognition.
+
+# ChatGpt Interpretation
+![[fusedGpt.png]]

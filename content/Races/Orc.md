@@ -1,5 +1,5 @@
 # Description
-Orcs are tall, powerfully built humanoids, standing between 6.5 to 8 feet tall, with dense muscle and a natural air of authority. Their skin ranges from deep grey to earthen green, often marked by faint natural ridges or lines that grow more defined with age, reflecting their long lifespans and the wisdom they accumulate. They have strong, chiseled features, prominent lower tusks, and piercing eyes that gleam with intelligence and determination. Unlike crude stereotypes, orcs carry themselves with graceful confidence, moving with measured strength and controlled purpose, as every action is a reflection of their personal merit.
+Orcs are tall, powerfully built humanoids, standing between 6.5 to 8 feet tall, with dense muscle and a natural air of authority. Their skin ranges from deep grey to earthen green, often marked by faint natural ridges or lines that grow more defined with age, reflecting their long lifespans and the wisdom they accumulate. They have strong, chiselled features, prominent lower tusks, and piercing eyes that gleam with intelligence and determination. Unlike crude stereotypes, orcs carry themselves with graceful confidence, moving with measured strength and controlled purpose, as every action is a reflection of their personal merit.
 
 # Brief History
 The orcs of Eldaris have a long and troubled history. Before the first contact war they were a prosperous race. Due to their meritocratic nature, the best orc in any given field has total authority. Though disputes of skill are common, as soon as the superior orc is determined the rest are usually happy to follow their lead. This meant their early civilization developed dramatically, in size, culture, and technology. When the first contact war broke out the orcs had the advantage in both discipline and tactics. Following the war humans and dwarves recognised unique orcish mentality, and feared it. For if one orc was to prove themselves superior to all the rest, every orc would be united under them. As new races emerged they were taught of the threat orcs pose. Thus skirmishes, population control and extermination, became common occurrences to orcish kind. 
@@ -21,3 +21,6 @@ Orcs are feared, not because they are savages, but because of their potential.
 The rules for this race can be found in the Roll20 compendium. 
 
 Orcs in Eldaris have a long lifespan, their health begins to deteriorate after 800 years.
+
+# ChatGpt Interpretation
+![[orcGpt.png]]

@@ -19,3 +19,6 @@ Leonin are seen as savages by most, and the leonin tend to reinforce that image 
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[leoninGpt.png]]

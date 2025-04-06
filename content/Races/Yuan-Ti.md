@@ -19,3 +19,6 @@ Yuan-ti are often treated as monsters. Thus in the union they tend to stick to t
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGPT Interpretation
+![[yuanTiGpt.png]]

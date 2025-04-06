@@ -15,3 +15,6 @@ The hadozee have a reputation for being dependable and skilled. They also have a
 
 # Mechanics
 Wizards of the Coast is a terrible company, I do not wish to buy more of their content, but I do want winged monkey people. Yo Ho Ho! https://dnd5e.wikidot.com/lineage:hadozee
+
+# ChatGpt Interpretation
+![[hadozeeGpt.png]]

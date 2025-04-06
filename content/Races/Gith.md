@@ -17,3 +17,6 @@ Gith are seen as mysterious inscrutable creatures by most in the union, but are 
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[githGpt.png]]

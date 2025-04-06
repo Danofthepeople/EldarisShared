@@ -1,5 +1,5 @@
 # Description
-Dragonborn are tall, imposing reptilian humanoids, standing between 6 to 7.5 feet tall, with broad, muscular frames built for power and endurance. Their scaly hides come in a variety of colors—red, blue, green, black, white, gold, silver, and more—often reflecting their draconic ancestry. They have strong, angular snouts, piercing reptilian eyes, and ridged or crested heads that give them a regal, draconic appearance. Unlike true dragons, they lack wings and tails, but their powerful claws and sharp teeth make them formidable in battle. Many have a natural presence that commands attention, and their movements are purposeful and confident, reflecting the pride, discipline, and inner fire that defines their kind.
+Dragonborn are tall, imposing reptilian humanoids, standing between 6 to 7.5 feet tall, with broad, muscular frames built for power and endurance. Their scaly hides come in a variety of colours, red, blue, green, black, white, gold, silver, and more, often reflecting their draconic ancestry. They have strong, angular snouts, piercing reptilian eyes, and ridged or crested heads that give them a regal, draconic appearance. Unlike true dragons, they lack wings and tails, but their powerful claws and sharp teeth make them formidable in battle. Many have a natural presence that commands attention, and their movements are purposeful and confident, reflecting the pride, discipline, and inner fire that defines their kind.
 
 # Brief History
 When [[Udremm]] ascended to godhood he scattered eggs across Teitsa'Var. These eggs bore the first dragonborn, [[Udremm|Udremm's]] image of the perfect humanoid race. The dragonborn were elevated to greatness within Teitsa'Var, with each clan ruling vast swathes of land. The only authority higher than them, was the dragons themselves. 
@@ -21,3 +21,6 @@ Dragonborn, to most in the union, evoke the awe, and fear, of a true dragon.
 The rules for this race can be found in the Roll20 compendium. 
 
 In addition, no dragonborn in Eldaris has died of old age, nor do any appear to show any negative effects of aging.
+
+# ChatGpt Interpretation
+![[dragonbornGpt.png]]

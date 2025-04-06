@@ -1,5 +1,5 @@
 # Description
-Tieflings, in the broadest possible sense, still look human. However, their infernal heritage has left a clear imprint on their appearance. Tieflings have large horns that take any of a variety of shapes: some have curling horns like a ram, others have straight and tall horns like a gazelle’s, and some spiral upward like an antelopes’ horns. They have thick tails, four to five feet long, which lash or coil around their legs when they get upset or nervous. Their canine teeth are sharply pointed, and their eyes are solid colors, black, red, white, silver, or gold, with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include various shades of red. Their hair, cascading down from behind their horns, is usually dark, from black or brown to dark red, blue, or purple.
+Tieflings, in the broadest possible sense, still look human. However, their infernal heritage has left a clear imprint on their appearance. Tieflings have large horns that take any of a variety of shapes: some have curling horns like a ram, others have straight and tall horns like a gazelle’s, and some spiral upward like an antelopes’ horns. They have thick tails, four to five feet long, which lash or coil around their legs when they get upset or nervous. Their canine teeth are sharply pointed, and their eyes are solid colours, black, red, white, silver, or gold, with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include various shades of red. Their hair, cascading down from behind their horns, is usually dark, from black or brown to dark red, blue, or purple.
 
 # Brief History
 Roughly 150 years ago, once every ten years, the world of Eldaris would be plunged into the Long Night during the first five days of the year. During this time, [[Zuzarlra|Zuzarlra's]] fiends roamed freely, laying waste to civilization. Humans born during the Long Night had their weave fused with devilish energy, transforming them into tieflings. Initially, tieflings were met with fear and suspicion, their infernal features a grim reminder of the horrors that plagued the land. Over time, however, that fear gave way to an uneasy acceptance, as the pattern continued and their unique nature became undeniable.
@@ -19,3 +19,6 @@ Much of the progress tieflings had made towards a good reputation in the union h
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[tieflingGpt.png]]

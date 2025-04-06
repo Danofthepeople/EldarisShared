@@ -1,5 +1,5 @@
 # Description
-Satyrs are lithe, energetic humanoids, standing between 4 to 5 feet tall, with graceful, yet powerful lower bodies covered in coarse fur, ending in cloven hooves. Their upper bodies are lean and athletic, with expressive faces, sharp cheekbones, and eyes that gleam with mischief and curiosity. A pair of curved or spiraled horns sprout from their foreheads, varying in shape and size, often reflecting their personality or lineage. Their ears are long and pointed, flicking subtly with their emotions, much like the wild creatures they resemble. Satyrs move with effortless agility, their hooves making them light on their feet, always ready to leap into a dance, a chase, or a fight. Their presence carries an air of untamed joy and revelry, as if the world is a grand adventure meant to be savored, one indulgence at a time.
+Satyrs are lithe, energetic humanoids, standing between 4 to 5 feet tall, with graceful, yet powerful lower bodies covered in coarse fur, ending in cloven hooves. Their upper bodies are lean and athletic, with expressive faces, sharp cheekbones, and eyes that gleam with mischief and curiosity. A pair of curved or spiralled horns sprout from their foreheads, varying in shape and size, often reflecting their personality or lineage. Their ears are long and pointed, flicking subtly with their emotions, much like the wild creatures they resemble. Satyrs move with effortless agility, their hooves making them light on their feet, always ready to leap into a dance, a chase, or a fight. Their presence carries an air of untamed joy and revelry, as if the world is a grand adventure meant to be savoured, one indulgence at a time.
 
 # Brief History
 If there ever was a race that was born to party, the satyr are that race. They were formed from the brief union of the gods [[Kihena]] and [[Valia]]. Made of nature and love the satyr embrace life, living to enjoy every moment of it. 
@@ -19,3 +19,6 @@ Satyr are met with delight by those who want a party, then with scorn by those s
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[satyrGpt.png]]

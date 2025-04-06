@@ -17,3 +17,6 @@ Few know the corvians exist, those few hate them.
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium, under the name Ravenfolk.
+
+# ChatGpt Interpretation
+![[corvianGpt.png]]

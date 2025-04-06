@@ -19,3 +19,6 @@ Half-Elves are generally seen as oddities by citizens of the union. They often r
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[halfElfGpt.png]]

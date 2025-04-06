@@ -19,3 +19,6 @@ Half-Orcs are generally met with concern by citizens of the union, but less host
 The rules for this race can be found in the Roll20 compendium.
 
 Half-Orcs in Eldaris have a long lifespan, living for about 450 years.
+
+# ChatGpt Interpretation
+![[halfOrcGpt.png]]

@@ -17,3 +17,6 @@ Hobgoblins are only really seen in cities within the union, they have earned cau
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[hobgoblinGpt.png]]

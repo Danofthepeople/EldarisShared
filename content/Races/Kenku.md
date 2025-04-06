@@ -21,3 +21,6 @@ The rules for this race can be found in the Roll20 compendium.
 All kenku would have been provided with an in-depth dialect by the Sect of Education. So you aren't limited to mimicking sounds as you will have a 'default' voice. This default voice is likely that of a teacher from the area you grew up.
 
 Normally kenku have no ability for original thinking, however as a kenku adventurer you would be the one in a ten thousand exception to that rule.
+
+# ChatGpt Interpretation
+![[kenkuGpt.png]]

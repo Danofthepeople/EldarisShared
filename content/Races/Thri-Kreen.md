@@ -15,3 +15,6 @@ Too little is known of the thri-kreen for them to have a reputation.
 
 # Mechanics
 Wizards of the Coast is a terrible company, I do not wish to buy more of their content, but I do want alien mantis people. Yo Ho Ho! https://dnd5e.wikidot.com/lineage:thri-kreen
+
+# ChatGpt Interpretation
+![[thriKreenGpt.png]]

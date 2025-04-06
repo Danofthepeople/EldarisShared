@@ -17,3 +17,6 @@ Most would mistake a gearforged for a corseeky, and thus they would be met with 
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[gearforgedGpt.png]]

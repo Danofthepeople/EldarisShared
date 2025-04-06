@@ -23,3 +23,6 @@ Corseeky are met with open fear across Eldaris, the cleansing is still fresh in 
 The rules for this race can be found in the Roll20 compendium, under the name Warforged. 
 
 To play as a corseeky you must have snapped, and lost your connection to the hive. It is important to consider how your character snapped, what emotional event forced free will upon them, the most likely candidate would be actions taken during the cleansing.
+
+# ChatGpt Interpretation
+![[corseekyGpt.png]]

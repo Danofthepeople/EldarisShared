@@ -7,7 +7,7 @@ The little creatures often inhabit the fringes of society, scraping a living as 
 There were many 'first encounters' with the raskir, in many different places in the Shattered Isles, none of these encounters was of any note. Thus the Union officially declares its introduction to the raskir as the day an entire community of them were found in the sewers of Aedkaender. Where the raskir may have come from the shattered isles, but now they are everywhere.
 
 # Rarity in the Union
-Raskir are common in the Union. The saying goes, you are never fore than ten feet from a rat, and never more than a hundred from a raskir.
+Raskir are common in the Union. The saying goes, you are never more than ten feet from a rat, and never more than a hundred from a raskir.
 
 # Political Standing in the Union
 Despite their high numbers, the raskir have almost no political power, and the Union seems retticent to give them any.
@@ -17,3 +17,6 @@ The raskir are viewed as vermin and invaders, though in truth few citizens of th
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium, under the name Ratfolk.
+
+# ChatGpt Interpretation
+![[raskirGpt.png]]

@@ -15,3 +15,6 @@ The harengon have a good reputation in the Union, getting on with most races. Th
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[harengonGpt.png]]

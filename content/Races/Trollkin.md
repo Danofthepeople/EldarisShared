@@ -1,5 +1,5 @@
 # Description
-With a thick hide of green or brown, trollkin are superficially similar to orcs or hobgoblins. While many trollkin share a rough and unkempt appearance, their inhuman lineage can show itself in a wide variety of forms. Some trollkin could even be considered beautiful by human standards, except for some subtle marker of their monstrosity, such as stone–gray skin or talon-tipped fingers.
+With a thick hide of green or brown, trollkin are superficially similar to orcs or hobgoblins. While many trollkin share a rough and unkempt appearance, their inhuman lineage can show itself in a wide variety of forms. Some trollkin could even be considered beautiful by human standards, except for some subtle marker of their monstrosity, such as stone–grey skin or talon-tipped fingers.
 
 Many trollkin wear tattoos to show tribal loyalty or to venerate their ancestor spirits. The bravest among them brand their flesh to show mastery over their own fear, since only acid and fire leave long-lasting scars on their skin.
 
@@ -19,3 +19,6 @@ Trollkin are currently seen as monsters, largely because few people can believe 
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[trollkinGpt.png]]

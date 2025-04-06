@@ -17,3 +17,6 @@ Halflings are almost universally loved in the empire, they are quite often seen 
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[halflingGpt.png]]

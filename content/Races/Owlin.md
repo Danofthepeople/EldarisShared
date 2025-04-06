@@ -17,3 +17,6 @@ The Owlin have a well earned reputation for acting superior to everyone around t
 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
+
+# ChatGpt Interpretation
+![[owlinGpt.png]]
