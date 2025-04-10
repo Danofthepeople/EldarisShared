@@ -16,5 +16,5 @@ Most gnolls are as uncivilised as they are made out to be, this makes life for t
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[gnollGpt.png]]

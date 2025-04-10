@@ -22,5 +22,5 @@ All kenku would have been provided with an in-depth dialect by the Sect of Educa
 
 Normally kenku have no ability for original thinking, however as a kenku adventurer you would be the one in a ten thousand exception to that rule.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[kenkuGpt.png]]

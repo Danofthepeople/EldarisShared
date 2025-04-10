@@ -16,5 +16,5 @@ Most will not have heard of the derro, and those who have may dismiss their exis
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[derroGpt.png]]

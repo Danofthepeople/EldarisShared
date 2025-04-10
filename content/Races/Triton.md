@@ -20,5 +20,5 @@ Triton through some fault of their own are seen as pompous and rude by many in t
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[tritonGpt.png]]

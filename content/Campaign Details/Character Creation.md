@@ -26,6 +26,9 @@ Eldaris has many races, some would say a nice number of races, find the details 
 - ROLL20 compendium integration can be a bit dodgy for the third party races. I found one that lets you have four ability score improvements, which is obviously wrong. So when making your characters be sure to double check you get everything you should from your race, and no more.
 - Some races do not have roll20 compendium integration, but you are all big strong adults, so I am sure you will manage.
 
+# Classes
+There are a few of these. Details exist here: [[Classes]]
+
 # Backstory
 I like a good backstory, and I will read any that are provided to me. However I appreciate backstories are hard to come up with. For this campaign I have come up with a framework to help you along. I always aim to have at least one arc linked to each characters backstory. If there is something in your backstory you specifically want to explore, please highlight it to me. 
 

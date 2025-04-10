@@ -24,5 +24,5 @@ The rules for this race can be found in the Roll20 compendium.
 
 In Eldaris once a tortle reaches a 500 years old, they go through a form metamorphosis. Their bodies begin to slow and harden, eventually forcing them to retreat into their shell, forming an odd cocoon. They remain in this state for a year before emerging from their old shell as a baby tortle. The new-born may look different, and even have a different personality, but as the tortle matures it slowly remember its past lives. This cycle is thought to be unending, meaning a tortle can never die of old age, though no tortle has lived for more than 5 cycles.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[tortleGpt.png]]

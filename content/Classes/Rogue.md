@@ -1,0 +1,39 @@
+# Overview & Creation
+Rogues are the ghost in the alley, the blade you never see coming, the secret never meant to be uncovered. They aren't bound by pacts or rituals or songs; just by the job and the price. Some call them thieves, others call them assassins. Doesn’t matter. By the time you figure out which, it’s already too late.
+
+# ChatGPT Interpretation
+![[classRogueGpt.png]]
+
+# Details
+
+## Hit Points
+- **Hit Dice:** d8 per Rogue level
+- **Hit Points at first Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per Rogue level after 1st, re-rolling allowed on a 1 or 2.
+
+## Proficiencies
+- **Armour:** Light armour
+- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- **Tools:** Thieves’ tools
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+
+## Subclasses
+- **Arcane Trickster:** Some rogues enhance their fine-honed skills of stealth⁠ and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.
+- **Assassin:** You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests⁠ trained to exterminate the enemies of their deity. Stealth⁠, poison, and disguise help you eliminate your foes with deadly efficiency.
+- **Cat Burglar:** As a cat burglar, you’ve honed your ability to enter closed or restricted areas, drawing upon a tradition first developed among the tabaxi, who often are innately curious and driven to learn what wonders, riches, or unusual friends and foes lie beyond their reach or just out of sight.
+- **Dawn Blade:** Even churches and temples of deities of goodness and light have need of those willing to get their hands dirty and willing to sully their honour in service of what must be done. Dawn blades are devout rogues, drawing divine power from deities of light to strike as a sudden ray of searing sunlight in the darkness. They are often considered controversial by other adherents of their faith, yet the faith’s leadership understands such agents are sometimes necessary.
+- **Duellist:** The roguish duellist is a lightly armoured combatant who favours quick, precise attacks with a light weapon in each hand. The duellist is murderously effective when fighting one-on-one. The quick, resourceful, and precise duellist may look like an artist, but more often he or she is just another killer for hire, but one with a dashing and lethal sense of style.
+- **Fixer:** You are a fixer, you make connections between thugs, burglars, trap-smiths and second-story men. You know people, you know where to find what you need, and you know who to pay to get things done. You realize the most valuable currency is knowledge, and you make very sure to be flush with coin to obtain the information you seek.
+- **Inquisitive:** As an archetypal Inquisitive, you excel at rooting out secrets and unravelling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.
+- **Mastermind:** Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favours are some of your favourite treasures.
+- **Phantom:** Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.
+- **Sapper:** You focus as much on identifying the weak points of structures as on the weak points of creatures. Sappers are deployed with the soldiery to dig trenches, build bridges, and breach defences. When troops move into a heavily defended area, it’s your job to make it happen as efficiently as possible.
+- **Scout:** You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter, these are just a few of the roles that Scouts assume as they range the world.
+- **Smuggler:** The transport of goods, creatures, and even people can be a lucrative business, particularly if you know how to avoid expensive import and export taxes, bridge, highway, and port tolls, and other legal requirements. Exotic poisons from far-off locales, banned or cursed magic items, and illicit drugs or bootleg liquor all fetch a high price on the black market. Thieves’ guilds, pirates, and criminal kingpins pay well to those who can avoid law enforcement when moving stolen goods, provide safe channels of communication, break associates free from jail cells or dungeons, or deliver supplies past guards
+- **Soulknife:** Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work.
+- **Soulspy:** In the eternal war between good and evil, between light and darkness, between life and death, there are many types of participants on each side. Soulspies are agents of the divine who lurk in the shadows, taking a less-visible role in the fight.
+- **Swashbuckler:** You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.
+- **Thief:** You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth⁠, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
+- **Underfoot:** Though most rogues prefer ambushing their opponents from the shadows, erina rogues ambush their opponents from below. These Underfoot use druidic magic and their natural aptitude for burrowing to defend their forest homes. The Underfoot are an elite order of burrow warriors in every erina colony. Using a combination of guerilla attacks and druidic magic, they are a force to be reckoned with, diving into fights nose-forward.
+- **Whisper:** You’ve dedicated your life to the arts of deception, illusion, and disappearing. Somewhere along that path, you encountered something from the Shadow Realm that showed you how to be one with the shadows, or perhaps you learned your best tricks from the shadows themselves. 

@@ -1,0 +1,36 @@
+# Overview & Creation
+A Warlock shook hands with something no sane soul would touch and walked away smiling. Whether they serve dark gods, ancient beasts, or stranger things still, one truth binds them; they chose this path. Their magic burns hot and fast, a borrowed fire they barely control, but gods help you if they turn it against you. They’re courtiers to nightmares, and worse yet, they think they’re winning.
+
+# ChatGPT Interpretation
+![[classWarlockGpt.png]]
+
+# Details
+
+## Hit Points
+- **Hit Dice:** d8 per Warlock level
+- **Hit Points at first Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 + your Constitution modifier per Warlock level after 1st, re-rolling allowed on a 1 or 2.
+
+## Proficiencies
+- **Armour:** Light armour
+- **Weapons:** Simple weapons
+- **Tools:** None
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+
+## Subclasses
+- **Archfey:** Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being’s motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges
+- **Fiend:** You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you.
+- **Great Old One:** Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds.
+- **The Fathomless:** You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?
+- **The Genie:** You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
+- **The Celestial:** Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, unicorn, or other entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.
+- **The Hexblade:** You have made your pact with a mysterious entity from the Shadowfell—a force that manifests in sentient magic weapons carved from the stuff of shadow. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.
+- **The Genie Lord:** You have made a pact with a powerful ruler of geniekind on one of the Elemental Planes. The Genie Lord’s aims swing wildly from inscrutable to the mortal mind, to startlingly simple and straightforward. Genie lords struggle endlessly to one-up each other, and rivalries between these elemental rulers can engulf entire nations. They aren’t above bribing a rival’s mortal agents to switch sides if they think it will gain them an advantage.
+- **The Great Machine:** The world seems chaotic, but not all worlds are. There are infinite planes of precisely moving parts, gears whose movement is counted in the lifetime of suns in the material world. There are beings of pure rational law. Your patron is such a being of cold precision, to a degree beyond mortal measure. Logical and deliberate but utterly incomprehensible, it might be a denizen of the plane of Rusty Gears or it might have arisen out of the clockwork magic of the material plane.
+- **The Light Eater:** You have made a pact with a being from the Plane of Shadows whose goal is to plunge the world into unending darkness. You may or may not share this ambition, but you’ve sworn loyalty to this entity. Unlike fiends who seek to corrupt and destroy, light-eaters want to make the Material Plane more like their own Shadow Realm. Many light-eaters were once liches, shadow dragons, death knights, vampiric wizards, or other shadow beings that existed long enough to amass great power before abandoning their former paths to pursue the glorification of the night as an end in itself.
+- **Ancient Dragons:** You have made a pact with one or more ancient dragons or a dragon god. You wield a measure of their control over the elements and have insight into their deep mysteries. As your power and connection to your patron or patrons grows, you take on more draconic features, even sprouting scales and wings.
+- **Animal Lords:** While humanoids have vast pantheons and divine figures of every stripe, the animals of the world have much simpler forms of faith. Among each species there is always one paragon that embodies the animal spirit in a humanoid form, the better to speak to others and represent the animals in the fey courts and the Upper Planes. These timeless entities are connected to every animal of the kind they represent, and their primary concerns are for the well-being of these animals and the natural world as a whole. Your patron is one such animal lord.
+- **Hunter in Darkness:** The Hunter in Darkness is an entity that sees all creatures as prey and enjoys instilling fear in its prey. It prefers intelligent prey over mere beasts, as their fear tastes so much sweeter. Hunters who display impressive prowess for hunting pique its interest. The Hunter in Darkness often bestows its power on such individuals to spread fear further than the Hunter can by itself.
+- **Primordial:** You have made a pact with the ancient intelligence of a primeval forest. Before the rise of civilization, before sapient life, there were the forests. Empires rise and fall around them, but the forests remain as a testament to nature’s endurance.
+- **Wyrdweaver:** Your patron is probability itself, the personified wellspring of chance as embodied by chosen deities, entities, and eldritch beings across the planes. By binding yourself to the Wyrdweaver, you live by the roll of the dice and the flip of the coin, delighting in the randomness of life and the thrill of new experiences. You might find yourself driven to invade a lich’s keep to ask it about its favorite song, or you might leap onto a dragon’s back to have the right to call yourself a dragonrider. Life with a pact-bond to your patron might not be long, but it will be exciting.

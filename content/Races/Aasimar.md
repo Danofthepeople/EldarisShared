@@ -18,5 +18,5 @@ Most of the short-lived races will never have seen an aasimar, for the long-live
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[aasimarGpt.png]]

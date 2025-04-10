@@ -20,5 +20,5 @@ Kobolds, to most in the union, are seen as just the meek servants of the dragonb
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[koboldGpt.png]]

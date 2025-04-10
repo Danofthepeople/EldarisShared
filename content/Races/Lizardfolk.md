@@ -20,5 +20,5 @@ Lizardfolk are met with caution by most in the union, especially when they look 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[lizardfolkGpt.png]]

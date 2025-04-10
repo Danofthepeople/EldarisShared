@@ -16,5 +16,5 @@ Hexbloods are often met with suspicion as people cannot help but wonder just how
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[hexbloodGpt.png]]

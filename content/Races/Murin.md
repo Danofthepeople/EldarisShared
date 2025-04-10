@@ -18,5 +18,5 @@ The murin are seen as a curious oddity. Their general cuteness means that in gen
 # Mechanics
 This race is homebrew: https://drive.google.com/file/d/0B6eHVaEIoWbBZWRid0tkMnhPMXM/view?resourcekey=0-gPtpcevCQKs9n26eI1sTzA
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[murinGpt.png]]

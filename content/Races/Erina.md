@@ -16,5 +16,5 @@ Erina are generally seen as enigmatic travellers in the Union, rarely does an er
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[erinaGpt.png]]

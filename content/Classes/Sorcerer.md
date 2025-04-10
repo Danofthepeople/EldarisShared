@@ -1,0 +1,38 @@
+# Overview & Creation
+Sorcerers are magic, born with it thrumming in their veins like wildfire under their skin. They don’t study; they unleash. A Sorcerer’s power is instinctive, raw, and devastating; a force of nature more than a craft. They may charm you, awe you, or incinerate you, often without entirely meaning to. Standing too close to a Sorcerer is like standing too close to a storm: thrilling, beautiful, and likely to kill you.
+
+# ChatGPT Interpretation
+![[classSorcererGpt.png]]
+
+# Details
+
+## Hit Points
+- **Hit Dice:** d6 per Sorcerer level
+- **Hit Points at first Level:** 6 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d6 + your Constitution modifier per Sorcerer level after 1st, re-rolling allowed on a 1.
+
+## Proficiencies
+- **Armour:** None
+- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** None
+- **Saving Throws:** Constitution, Charisma
+- **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+
+## Subclasses
+- **Draconic Bloodline:** Your innate magic comes from dracon⁠ic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origi⁠n trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure.
+- **Wild Magic:** Your innate magic comes from the forces of chaos that underlie the order of creation⁠. You might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the Far Realm. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
+- **Runechild:** The talents of a Runechild are rare, and sorcerers with this origin are sought after for study by mages and scholars alike, driven by a prevalent belief that the secrets of their runes can help understand the mysteries of magic. Others sometimes seek to enslave Runechild sorcerers, using their bodies as tortured spell batteries for diabolic pursuits.
+- **Aberrant Mind:** An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you by using it to control the magical energy of the multiverse.
+- **Clockwork Soul:** The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.
+- **Divine Soul:** Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god’s name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
+- **Shadow Magic:** You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
+- **Storm Sorcery:** Your innate magic comes from the power of elemental air. Many with this power can trace their magic back to a near-death experience caused by the Great Rain, but perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as djinn. Whatever the case, the magic of the storm permeates your being.
+- **Mazeborn :** Your magic comes from a blood connection to a minotaur in your ancestral past. Most sorcerers with this origin are taller and bulkier than other representatives of their race because of the tinge of the maze in their blood. While those that embrace their blood start manifesting the bestial aspects of a minotaur, eventually the madness of the maze bleeds through them into the world.
+- **Shadow Bloodline:** Your magic comes from a place drained of color, where light fights a losing battle against the relentless encroachment of darkness. In the distant past, your ancestors were touched by the Shadow Realm, and this contact left its mark on your family bloodline.
+- **Black Powder Sorcery:** Your innate magic comes from the explosive power of raw alchemy and black powder. You parents may have been alchemists, whose long exposure to alchemical reagents mingled with a latent talent for magic in their bloodlines and caused you to be born with such abilities. Or you may have been experimented upon—with or without your permission—when you were younger and those alchemical experiments brought this unexpected magical power to the surface. Whatever the catalyst for your powers, they bring with them an affinity for black powder, allowing you magical prowess that exploits its power to your benefit.
+- **Cold-Blooded:** One or more of your ancestors was experimented on or an associate of the world’s earliest serpentfolk. Your ancestor’s natural affinity for magic was nurtured, expanded, and warped by the experimentation of their ophidian masters in order to transform them into something closer to the serpentine ideal
+- **Hungering:** Your innate magic comes from a deep, primal source of hunger and craving. Perhaps your line was cursed for its greed by a god of plenty or generosity. Perhaps one of your forebears was marked by the hungering undead. Sorcerers with this origin have an unyielding appetite for arcana and go to nearly any length to satiate their desire to increase their magical power.
+- **Resonant Body:** You are a conduit for the power that exists in sounds and vibrations, your body a living tuning fork capable of emitting, focusing, muting, and transmuting sound and sonic forms of magic.
+- **Rifthopper:** Rifthoppers are the living embodiment of wanderlust. The yearn to travel and witness unseen vistas burns in them and manifests in their ability to move nearly at the speed of thought. The origin of the rifthoppers’ powers remains a mystery, as they refuse to stay in one place long enough to be studied extensively.
+- **Spore Sorcery:** One of the most omnipresent elements in the atmosphere is practically invisible and often ignored: spores. Plants of all varieties, fungal sentient life forms like myconid, and even animals emit these tiny pieces of life. You’ve always had an affinity for the natural world, and your innate magic is carried within the power of these omnipresent spores.
+- **Wastelander:** Eldritch power and residual magical energy left over from a horrific arcane war is drawn to you as a lodestone is drawn to iron. Perhaps this attraction is due to a pact one of your ancestors made with an ancient eldritch horror. Perhaps it is an unfortunate twist of circumstance. Regardless, your physiology is in a constant state of transformation as a result of your condition.

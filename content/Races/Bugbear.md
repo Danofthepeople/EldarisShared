@@ -18,5 +18,5 @@ Bugbears are feared by most denizens of the union, especially those that don't l
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[bugbearGpt.png]]

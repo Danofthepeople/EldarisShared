@@ -20,5 +20,5 @@ The repuation of dhampir is heavily influenced by the veputation of vampires. Mo
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[dhampirGpt.png]]

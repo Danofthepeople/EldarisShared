@@ -16,5 +16,5 @@ Fairies that visit the material plane usually do so for adventure, thus to the p
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[fairyGpt.png]]

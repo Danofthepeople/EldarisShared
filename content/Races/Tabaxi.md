@@ -20,5 +20,5 @@ Tabaxi are met with distrust, and disdain. Their disregard for culture, and lax 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium, under the names Tabaxi and Catfolk. Both these choices are considered tabaxi because I did not need or want another cat race on Eldaris, apologies to any furrys reading this.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[tabaxiGpt.png]]

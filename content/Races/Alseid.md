@@ -16,5 +16,5 @@ Alseid benefit from the possitve reputation of the centaur, despite having nothi
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[asleidGpt.png]]

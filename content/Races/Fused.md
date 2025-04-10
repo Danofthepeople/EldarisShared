@@ -24,5 +24,5 @@ Fused are thought to share the same weakness to silver that shifters have, due t
 
 As a fused your character would have had a normal life, until they were kidnapped. After which they would remember being abandoned outside of civilisation, changed beyond recognition.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[fusedGpt.png]]

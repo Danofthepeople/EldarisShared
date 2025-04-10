@@ -16,5 +16,5 @@ The praedaren are generally met with fear. They are known as terrors of the sea,
 # Mechanics
 This race is homebrew: https://www.gmbinder.com/share/-LIXYg4u81mAPzL2YxmG
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[praedarenGpt.png]]

@@ -18,5 +18,5 @@ The raskir are viewed as vermin and invaders, though in truth few citizens of th
 # Mechanics
 The rules for this race can be found in the Roll20 compendium, under the name Ratfolk.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[raskirGpt.png]]

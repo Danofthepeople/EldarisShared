@@ -16,5 +16,5 @@ The vast majority of people do not think the satarre exist, and that is if they 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[satarreGpt.png]]

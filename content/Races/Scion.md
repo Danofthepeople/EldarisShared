@@ -20,5 +20,5 @@ Scions can pass as humans in any area that doesn't know who they are. Where they
 # Mechanics
 The rules for this race can be found in the Roll20 compendium, under the name Kalashtar.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[scionGpt.png]]

@@ -22,5 +22,5 @@ The rules for this race can be found in the Roll20 compendium.
 
 Orcs in Eldaris have a long lifespan, their health begins to deteriorate after 800 years.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[orcGpt.png]]

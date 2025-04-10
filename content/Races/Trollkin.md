@@ -20,5 +20,5 @@ Trollkin are currently seen as monsters, largely because few people can believe 
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[trollkinGpt.png]]

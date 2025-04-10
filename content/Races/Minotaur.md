@@ -18,5 +18,5 @@ Minotaur are met with the same fascination they radiate out to the world, though
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[minotaurGpt.png]]

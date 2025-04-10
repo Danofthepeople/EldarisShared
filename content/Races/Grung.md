@@ -22,5 +22,5 @@ Most people dislike the grung, their evil reputation is well known.
 # Mechanics
 Wizards of the Coast is a terrible company, I do not wish to buy more of their content, but I do want frog people. Yo Ho Ho! https://dnd5e.wikidot.com/lineage:grung
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[grungGpt.png]]

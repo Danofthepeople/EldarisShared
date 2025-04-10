@@ -20,5 +20,5 @@ The rules for this race can be found in the Roll20 compendium.
 
 Late in the 3rd era, dwarves suffered an infertility plague. Dwarves can no longer have children with each other in the traditional manner. Instead they follow a process shared with them by Ginmik Bronzearm. The exact process is a dwarven secret, but most know that a pair of group of dwarves comes together to carve a from stone, infusing it with their essence, and that stone becomes a flesh and blood new-born dwarf.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[dwarfGpt.png]]

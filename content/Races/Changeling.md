@@ -20,5 +20,5 @@ The rules for this race can be found in the Roll20 compendium.
 
 In addition, changelings in Eldaris have a weakness to silver. It causes them discomfort to touch, and suspends their ability to shapeshift in the localised area. Some changelings can train themselves to hold silver for short durations, but piercings make the silver irresistible.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[changelingGpt.png]]

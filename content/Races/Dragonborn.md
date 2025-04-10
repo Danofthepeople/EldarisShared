@@ -22,5 +22,5 @@ The rules for this race can be found in the Roll20 compendium.
 
 In addition, no dragonborn in Eldaris has died of old age, nor do any appear to show any negative effects of aging.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[dragonbornGpt.png]]

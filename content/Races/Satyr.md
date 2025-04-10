@@ -20,5 +20,5 @@ Satyr are met with delight by those who want a party, then with scorn by those s
 # Mechanics
 The rules for this race can be found in the Roll20 compendium.
 
-# ChatGpt Interpretation
+# ChatGPT Interpretation
 ![[satyrGpt.png]]
