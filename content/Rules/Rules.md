@@ -66,6 +66,9 @@ These rules aren't standard 5e, but they will be used for this campaign.
 		- It can't use reactions. 
 		- It can use either an action or a bonus action, not both. Regardless of the creature's Abilities or Magic Items, it can't make more than one melee or ranged attack during its turn.
 		- If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. on a 1-10, the spell is not cast and the spell slot is wasted. On an 11-19, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted. On a 20, the spell is cast normally.
+- **Tension Pool** There are now consequences for taking a long time: https://theangrygm.com/wp-content/uploads/The-Tension-Pool.pdf
+- [[Potion Quality and Addiction]]
+	- Potions now come in various grades, some of which are bad for you.
   
 # An issue of Naming
 
