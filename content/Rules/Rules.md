@@ -69,6 +69,9 @@ These rules aren't standard 5e, but they will be used for this campaign.
 - **Tension Pool** There are now consequences for taking a long time: https://theangrygm.com/wp-content/uploads/The-Tension-Pool.pdf
 - [[Potion Quality and Addiction]]
 	- Potions now come in various grades, some of which are bad for you.
+- [[Lifestyle Quality System]]
+	- Spending gold to stay at a fancy inn now has tangible benefits.
+	- Sleeping in the gutter because you are poor also has drawbacks.
   
 # An issue of Naming
 
